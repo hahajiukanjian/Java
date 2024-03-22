@@ -1,4 +1,4 @@
-package com.hahajiukanjian.demo;
+package com.hahajiukanjian;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
